@@ -17,6 +17,10 @@ Legendary Eagle Master | Counterstrike: Global Offensive (2017)
 
 ### Projects
 
+Walmart M5 Forcasting (2024)
+
+Replication of Peri, Giovanni and Chad, Sparber "Task Specialization, Immigration, and Wages." (2023)
+
 
 
 
